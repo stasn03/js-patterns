@@ -1,3 +1,4 @@
+//Factory Pattern
 function Developer(name) {
     this.name= name;
     this.type= "Developer";
